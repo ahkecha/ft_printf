@@ -1,6 +1,7 @@
 # Ft_printf
 
 42 cursus / 1337 project where you have to re-implement stdio.h function printf.
+
 [![ahkecha's 42Project Score](https://badge42.herokuapp.com/api/project/ahkecha/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
 ## Authors
