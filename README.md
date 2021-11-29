@@ -14,7 +14,7 @@
 Clone the project
 
 ```bash
-  https://github.com/akecha/ft_printf.git
+  git https://github.com/akecha/ft_printf.git
 ```
 
 Go to the project directory
@@ -26,14 +26,13 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  brew install clang
-  brew install make
+  brew install make (who tf doesn't have make)
 ```
 
 Compile
 
 ```bash
-  make
+  make all
 ```
 Demo
 
